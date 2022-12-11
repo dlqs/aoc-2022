@@ -3,7 +3,6 @@ name:               aoc
 version:            0.1.0.0
 author:             Donald Lee Qian Siang
 maintainer:         dlqs@gmx.com
-extra-source-files: CHANGELOG.md
 
 executable 1
     main-is:          1.hs
